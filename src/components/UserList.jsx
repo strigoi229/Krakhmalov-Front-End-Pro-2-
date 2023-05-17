@@ -1,5 +1,5 @@
 import { NavLink, useLoaderData } from "react-router-dom";
-import { ROUTES } from "./Routes";
+import { ROUTES } from "./routes";
 
 export default function UserList() {
 
