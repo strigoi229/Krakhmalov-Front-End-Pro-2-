@@ -4,10 +4,10 @@ import UserList  from "./UserList";
 import AlbumList from "./AlbumList";
 import PhotoList from "./PhotoList";
 import Main from "./Main";
-import { FetchAllUsers } from "./FetchAllUsers";
-import { FetchUserAlbums } from "./FetchUserAlbums";
-import { FetchAlbumPhoto } from "./FetchAlbumPhoto";
-import { ROUTES } from "./Routes";
+import { FetchAllUsers } from "./appRequests";
+import { FetchUserAlbums } from "./appRequests";
+import { FetchAlbumPhoto } from "./appRequests";
+import { ROUTES } from "./routes";
 
 
 
