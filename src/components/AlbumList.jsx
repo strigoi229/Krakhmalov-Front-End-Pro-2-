@@ -1,6 +1,6 @@
 import React from "react";
 import { useLoaderData, NavLink} from "react-router-dom";
-import { ROUTES } from "./Routes";
+import { ROUTES } from "./routes";
 
 export default function AlbumList() {
   const userAlbums = useLoaderData();  
